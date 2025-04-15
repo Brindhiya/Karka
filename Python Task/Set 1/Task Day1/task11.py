@@ -1,0 +1,7 @@
+print("My name is:""Brindhiya")
+print("My age is:""27")
+print("DOB:""10-0-1997")
+print("Weights is:""55.3")
+print("Heights is:""155.1")
+print("Msc mathemarics")
+print("Female")
